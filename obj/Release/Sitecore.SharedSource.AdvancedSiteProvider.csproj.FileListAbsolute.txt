@@ -1,0 +1,10 @@
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\bin\Release\Sitecore.SharedSource.AdvancedSiteProvider.dll
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\bin\Release\Sitecore.SharedSource.AdvancedSiteProvider.pdb
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\bin\Release\Sitecore.ContentSearch.dll
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\bin\Release\Sitecore.ContentSearch.Linq.dll
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\bin\Release\Sitecore.Kernel.dll
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\bin\Release\Sitecore.Logging.dll
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\bin\Release\Sitecore.Analytics.dll
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\bin\Release\Sitecore.Kernel.xml
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\obj\Release\Sitecore.SharedSource.AdvancedSiteProvider.dll
+D:\code\Sitecore\Sitecore.SharedSource.AdvancedSiteProvider\Sitecore.SharedSource.AdvancedSiteProvider\obj\Release\Sitecore.SharedSource.AdvancedSiteProvider.pdb
