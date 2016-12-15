@@ -1,0 +1,80 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>Sitecore.SharedSource.AdvancedSiteProvider</PackageName>
+      <Author>David Walker</Author>
+      <Version>1.0</Version>
+      <Revision />
+      <License>&lt;p&gt;Open Source - released under MIT License - no warranties, use at your own risk. See License.txt for further details.&lt;/p&gt;&lt;p&gt;This package simply copies one file into /bin&lt;ul&gt;&lt;li&gt;Sitecore.SharedSource.AdvancedSiteProvider.dll&lt;/li&gt;&lt;/ul&gt;Copies one item under /App_Config/Include/SharedSource/AdvancedSiteProvider:&lt;ul&gt;&lt;li&gt;Sitecore.SharedSource.AdvancedSiteProvider.config&lt;/li&gt;&lt;/ul&gt;&lt;a target=_blank href=http://RadicalDave.com/Sitecore/&gt;http://RadicalDave.com/Sitecore/&lt;/a&gt; for more details</License>
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher>RadicalDave.com</Publisher>
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xfiles>
+      <Entries>
+        <x-item>/bin/Sitecore.SharedSource.AdvancedSiteProvider.dll</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Undefined</ItemMode>
+                  <ItemMergeMode>Undefined</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>dll</Name>
+    </xfiles>
+    <files>
+      <Root>/App_Config/Include/SharedSource/AdvancedSiteProvider</Root>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include>
+        <FileNameFilter>
+          <Pattern />
+          <AcceptDirectories>False</AcceptDirectories>
+        </FileNameFilter>
+        <FileDateFilter>
+          <FilterType>CreatedFilter</FilterType>
+          <ActionDateTo />
+          <ActionDateFrom />
+          <NotOlderThan />
+        </FileDateFilter>
+        <FileDateFilter>
+          <FilterType>ModifiedFilter</FilterType>
+          <ActionDateTo />
+          <ActionDateFrom />
+          <NotOlderThan />
+        </FileDateFilter>
+      </Include>
+      <Exclude />
+      <Name>config</Name>
+    </files>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>
